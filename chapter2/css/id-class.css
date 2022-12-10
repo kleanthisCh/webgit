@@ -1,0 +1,23 @@
+body{
+  background-color: grey;
+}
+
+.aueb-logo {
+  width: 800px;
+  height: auto;
+}
+
+.aueb-text{
+  color: white;
+  background-color:black;
+}
+
+p.aueb-text {
+  color: white;
+  background-color:navy 
+}
+
+h1.aueb-text{
+  color:moccasin;
+  background-color:maroon;
+}

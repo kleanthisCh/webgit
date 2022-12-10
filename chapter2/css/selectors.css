@@ -1,0 +1,24 @@
+*{
+  margin:10px 2px;
+}
+
+/* .container{
+  background-color:darkgrey;
+} */
+
+.contrainer > h2:first-of-type{
+  font-size: 1.5rem ;
+}
+
+.container > p:first-of-type{
+  color: red;
+}
+
+ul > li:first-child{
+  /* font-weight: 700; */
+  font-weight: bold;
+}
+
+ul > li:nth-child(3){
+  color: green;
+}

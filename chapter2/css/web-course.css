@@ -1,0 +1,21 @@
+
+.aueb-img{
+  width: 1200px;
+  height: auto;
+  margin-left: 10px;
+} 
+
+.aueb-title{
+  font-family: "Roboto Slab";
+  font-weight: 400;
+  color: #762124;
+  text-shadow: 2px 2px 2px black;
+  text-align: center;
+  margin-left: 10px;
+}
+
+.aueb-text{
+  font-family:Quicksand;
+  font-weight: 300;
+  margin-left: 10px;
+}
